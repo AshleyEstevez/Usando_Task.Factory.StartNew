@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\bin\Debug\net8.0\Task.Factory.StartNew_PPLL.exe
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\bin\Debug\net8.0\Task.Factory.StartNew_PPLL.deps.json
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\bin\Debug\net8.0\Task.Factory.StartNew_PPLL.runtimeconfig.json
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\bin\Debug\net8.0\Task.Factory.StartNew_PPLL.dll
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\bin\Debug\net8.0\Task.Factory.StartNew_PPLL.pdb
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.AssemblyInfo.cs
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.dll
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\refint\Task.Factory.StartNew_PPLL.dll
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.pdb
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\Task.Factory.StartNew_PPLL.genruntimeconfig.cache
+C:\Users\PC\Desktop\Task.Factory.StartNew_PPLL\obj\Debug\net8.0\ref\Task.Factory.StartNew_PPLL.dll
